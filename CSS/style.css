@@ -490,7 +490,7 @@ body {
 .suggest{
   width: 30px;
   border-radius: 50%;
-  border: 1px solid grey;
+  border: 2px solid white;
 	margin-left: -15px;
 }
 
