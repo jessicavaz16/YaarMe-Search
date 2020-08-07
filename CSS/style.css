@@ -84,6 +84,7 @@ body {
   background-color: whitesmoke;
   margin-left: 0.25em;
   width: 23%;
+  padding: 10px 0;
   margin-right: auto;
 }
 .search-bar {
