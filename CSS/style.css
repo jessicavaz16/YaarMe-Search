@@ -351,7 +351,7 @@ body {
   background-image: url("../CSS/Images/add-user.png");
   background-size: 1.5em;
   float: right;
- display: none;
+  display: none;
 }
 
 
@@ -461,8 +461,6 @@ body {
   color:black;
   display: flex;
   font-size: 0.9em;
-  white-space: nowrap;
-  overflow-x: hidden;
   text-overflow: ellipsis;
 }
 
